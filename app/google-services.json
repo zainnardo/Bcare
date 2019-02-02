@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "329556520618",
+    "firebase_url": "https://bcare-229511.firebaseio.com",
+    "project_id": "bcare-229511",
+    "storage_bucket": "bcare-229511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329556520618:android:d0a545c253325fff",
+        "android_client_info": {
+          "package_name": "com.rpl9.bcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329556520618-ob4g8831601v0tloaa1kq9oo4imps8e0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rpl9.bcare",
+            "certificate_hash": "99189466dbf77b10e044e45d55ae60f990517d74"
+          }
+        },
+        {
+          "client_id": "329556520618-sssejtb8na4dkh3fkneshocck8s89eqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVmsd39BAfIJNzY_QeOrvJjy3ux6l6CU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329556520618-sssejtb8na4dkh3fkneshocck8s89eqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
